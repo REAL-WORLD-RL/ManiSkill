@@ -1,3 +1,4 @@
 [submodule "pi_link"]
 	path = pi_link
 	url = https://github.com/REAL-WORLD-RL/pi_link.git
+	branch = pi_link
